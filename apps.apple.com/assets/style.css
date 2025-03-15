@@ -1,0 +1,14 @@
+
+.product-header__btn {
+    cursor: pointer; 
+    display: block;
+    position: relative;
+   padding: 10px 15px;
+   font-weight: 500;
+   color: white;
+   background-color: mediumblue;
+   border-radius: 15px; 
+   margin-top: 15px;
+   margin-bottom: 15px; 
+   max-width: fit-content;
+}
